@@ -1,0 +1,21 @@
+{
+  "name": "khmer-themes",
+  "displayName": "khmer themes",
+  "description": "My khmer themes for coding",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Khmer Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Khmer Themes-color-theme.json"
+      }
+    ]
+  }
+}
