@@ -13,14 +13,14 @@ Khmer theme គឺជាអ្វីដែលខ្ញុំបង្កើត�
 8. Search "Khmer theme" and selected
 
 # ជំហានតម្លើង khmer theme នៅលើ vscode របស់អ្នក
-១. ទាញយក file zip ពី github របស់ខ្ញុំ
-២. unzip file 
-៣. ចម្លង file ដែលអ្នកបាន unzip រួច
-៤. ចូលទៅក្នុង Drive "C://users/username/.vscode/extension/"
-៥. បិទភ្ជាប់ file ដែលអ្នកបាន unzip ចូលទៅក្នុង extension 
-៦. បើក vscode 
-៧. ចូលទៅ manage -> themes -> color theme
-៨. ស្រាវជ្រាវ Khmer theme  ហើយ ចុចជ្រើសរើសលើវា ជាការស្រេច 
+1. ទាញយក file zip ពី github របស់ខ្ញុំ
+2. unzip file 
+3. ចម្លង file ដែលអ្នកបាន unzip រួច
+4. ចូលទៅក្នុង Drive "C://users/username/.vscode/extension/"
+5. បិទភ្ជាប់ file ដែលអ្នកបាន unzip ចូលទៅក្នុង extension 
+6. បើក vscode 
+7. ចូលទៅ manage -> themes -> color theme
+8. ស្រាវជ្រាវ Khmer theme  ហើយ ចុចជ្រើសរើសលើវា ជាការស្រេច 
 
 
 
