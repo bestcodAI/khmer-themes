@@ -1,10 +1,17 @@
 {
-  "name": "khmer-themes",
+
+  "icon": "./icon/icon.png",
+  "name": "khmer-theme",
   "displayName": "khmer themes",
   "description": "My khmer themes for coding",
+  "publisher": "B32OfYk58lCEQT9avyAW0Cw8qwy68fTFw6cxewu1MwS3M2znOcVkJQQJ99BAACAAAAAAAAAAAAASAZDOxGxE",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestcodAI/khmer-themes"
   },
   "categories": [
     "Themes"
@@ -12,10 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Khmer Themes",
+        "label": "Khmer Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Khmer Themes-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.4.1"
   }
 }
