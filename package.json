@@ -2,9 +2,8 @@
 
   "icon": "./icon/icon.png",
   "name": "khmer-theme",
-  "displayName": "khmer themes",
-  "description": "My khmer themes for coding",
-  "publisher": "B32OfYk58lCEQT9avyAW0Cw8qwy68fTFw6cxewu1MwS3M2znOcVkJQQJ99BAACAAAAAAAAAAAAASAZDOxGxE",
+  "displayName": "Khmer theme",
+  "description": "Khmer themes for coding",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
