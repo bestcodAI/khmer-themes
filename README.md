@@ -25,3 +25,6 @@ Khmer theme គឺជាអ្វីដែលខ្ញុំបង្កើត�
 
 
 ពីខ្ញុំ ជូ ចំណាន (Chou Chamnan)
+
+# My Theme Image
+<img src="https://github.com/bestcodAI/khmer-themes/blob/master/icon/khmer-theme.png" width="100%">
